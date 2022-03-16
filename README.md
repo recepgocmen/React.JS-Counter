@@ -1,2 +1,2 @@
-# React.JS-Simple-counter-Hook-Practice
+# React.JS-Simple-Counter-Hook-Practice
 Created with CodeSandbox
